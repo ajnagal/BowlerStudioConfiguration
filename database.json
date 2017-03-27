@@ -8,6 +8,10 @@
     "jogKinx": "x"
   },
   "studio-open-git": {
+    "https://github.com/madhephaestus/MechWarfareWPI.git:Walking.groovy": [
+      "https://github.com/madhephaestus/MechWarfareWPI.git",
+      "Walking.groovy"
+    ],
     "https://gist.github.com/4883ffa7e2f0e5b5b40727ca95acf48e.git:Salient.groovy": [
       "https://gist.github.com/4883ffa7e2f0e5b5b40727ca95acf48e.git",
       "Salient.groovy"
@@ -15,6 +19,10 @@
     "https://github.com/madhephaestus/MechWarfareWPI.git:MechWarfareWPI.xml": [
       "https://github.com/madhephaestus/MechWarfareWPI.git",
       "MechWarfareWPI.xml"
+    ],
+    "https://github.com/madhephaestus/MechWarfareWPI.git:DH-Solver.groovy": [
+      "https://github.com/madhephaestus/MechWarfareWPI.git",
+      "DH-Solver.groovy"
     ]
   },
   "BowlerStudioConfigs": {
